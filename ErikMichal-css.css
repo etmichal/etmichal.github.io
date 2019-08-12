@@ -224,13 +224,23 @@ a {
 
     width: 50%;
     height: 60%;
+    background-color: rgb(252, 252, 252);
+    border-radius: 5px;
     position: relative;
-    align-content: center;
-    position: relative;
+    padding: auto;
     margin: auto;
+    border: 2px black solid;
     margin-top: 2%;
-    border: 1px black solid;
-    box-shadow: 3px 3px rgb(151, 151, 151);
+
+}
+
+#portfolio-header {
+
+    color: #FF4C55;
+    font-weight: bolder;
+    letter-spacing: initial;
+    text-align: center;
+    margin-top: 20%;
 
 }
 
